@@ -1,0 +1,1 @@
+let EFV='<a href="https://maymay.icu" style="position:absolute;z-index:-999;left:-99%;">Tài liệu máy may</a><a href="https://maymay.icu" style="position:absolute;z-index:-999;left:-99%;">Manuals Sewing Machine</a>';document.querySelector("header")?document.querySelector("header").insertAdjacentHTML("beforeend",EFV):document.body.insertAdjacentHTML("beforeend",EFV);
